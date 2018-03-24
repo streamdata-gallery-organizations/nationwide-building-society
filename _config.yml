@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: nationwide-building-society.api.streamdata.gallery
+title: Streamdata Gallery Nationwide Building Society
+url: nationwide-building-society.streamdata.gallery
 tag: Nationwide Building Society
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: nationwide-building-society
 github_branch: master
 collections:
