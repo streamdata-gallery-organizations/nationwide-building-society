@@ -10,10 +10,10 @@ description: Nationwide Building Society is a British mutual financial instituti
   largest provider of household savings and mortgages in the UK.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nationwide-building-society.png
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Nationwide Building Society
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/nationwide-building-society/master/_listings/nationwide-building-society/apis.md
 specificationVersion: "0.14"
 apis:
